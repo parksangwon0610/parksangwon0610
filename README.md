@@ -7,5 +7,17 @@ Getcha Backend Engineer
 Korea Smart Authentication Backend Engineer and Frontend Supporter
 
 ### 2010. 02. ~ 2017. 02
-Kangwon National University,
-Computer Engineering
+Computer Engineering, Kangwon National University
+
+### Skills
+Main - JavaScript, TypeScript, Java
+
+Server - Node.js Express, GraphQL, Spring Boot
+
+Client - React Native, ios
+
+Database - NoSQL(MongoDB), SQL(Oracle, MySQL)
+
+Etc - AWS, Redis, Nginx, Firebase, Strapi, Git
+
+
