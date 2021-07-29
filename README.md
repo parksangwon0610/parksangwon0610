@@ -1,13 +1,10 @@
 # Sangwon Park
 ## Career
-### 2021. 06. ~
-Getcha Backend Engineer
+### 2021. 06. ~ | Backend Engineer, Getcha
 
-### 2018. 01. ~ 2021. 06
-Korea Smart Authentication Backend Engineer and Frontend Supporter
+### 2018. 01. ~ 2021. 06. | Backend Engineer and Frontend Supporter, Korea Smart Authentication
 
-### 2010. 02. ~ 2017. 02
-Department of Computer Engineering, Kangwon National University
+### 2010. 02. ~ 2017. 02. | Department of Computer Engineering, Kangwon National University
 
 ### Skills
 Main - JavaScript, TypeScript, Java
